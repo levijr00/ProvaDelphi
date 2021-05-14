@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/13 22:46:24.469.bdsproj,D:\ProvaDelphi\Componentes\Componente.bdsproj=C:\Users\levi.junior\Documents\Borland Studio Projects\Package2.bdsproj</Transaction>
+    <Transaction>2021/05/13 22:49:14.031.pas,D:\ProvaDelphi\Componentes\uspQuery.pas=D:\ProvaDelphi\Componentes\ClientDataSet1.pas</Transaction>
+    <Transaction>2021/05/13 22:50:26.000.972,=FireDAC.dcp</Transaction>
+    <Transaction>2021/05/13 22:50:26.000.990,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2021/05/13 22:50:26.000.955,=FireDACCommon.dcp</Transaction>
+    <Transaction>2021/05/13 22:51:21.000.617,D:\ProvaDelphi\Componentes\spComponentes.dproj=D:\ProvaDelphi\Componentes\Componente.dproj</Transaction>
+    <Transaction>2021/05/13 23:00:49.000.449,=DataSnapCommon.dcp</Transaction>
+    <Transaction>2021/05/13 23:00:49.000.460,=dbexpress.dcp</Transaction>
+    <Transaction>2021/05/13 23:00:49.000.457,=CustomIPTransport.dcp</Transaction>
+    <Transaction>2021/05/13 23:00:49.000.452,=DbxClientDriver.dcp</Transaction>
+    <Transaction>2021/05/13 23:00:49.000.442,=DbxCommonDriver.dcp</Transaction>
+    <Transaction>2021/05/13 23:00:49.000.446,=DataSnapClient.dcp</Transaction>
+    <Transaction>2021/05/13 23:00:49.000.466,=FireDACDSDriver.dcp</Transaction>
+    <Transaction>2021/05/13 23:00:49.000.463,=FireDACDBXDriver.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

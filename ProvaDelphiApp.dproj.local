@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/13 20:17:36.000.544,=C:\Users\levi.junior\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/05/13 20:44:47.000.440,=C:\Users\levi.junior\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/05/13 20:45:21.000.806,D:\ProvaDelphi\uPrincipal.pas=C:\Users\levi.junior\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/05/13 20:45:21.000.806,D:\ProvaDelphi\uPrincipal.dfm=C:\Users\levi.junior\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2021/05/13 20:45:24.000.619,D:\ProvaDelphi\ProvaDelphiApp.dproj=C:\Users\levi.junior\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2021/05/13 20:47:09.000.727,=D:\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/05/13 20:47:16.000.022,D:\ProvaDelphi\uTarefa1.pas=D:\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/05/13 20:47:16.000.022,D:\ProvaDelphi\uTarefa1.dfm=D:\ProvaDelphi\Unit1.dfm</Transaction>
+    <Transaction>2021/05/13 20:47:42.000.623,=D:\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/05/13 20:47:48.000.090,D:\ProvaDelphi\uTarefa2.dfm=D:\ProvaDelphi\Unit1.dfm</Transaction>
+    <Transaction>2021/05/13 20:47:48.000.090,D:\ProvaDelphi\uTarefa2.pas=D:\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/05/13 20:49:09.000.838,=D:\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/05/13 20:49:15.000.626,D:\ProvaDelphi\uTarefa3.dfm=D:\ProvaDelphi\Unit1.dfm</Transaction>
+    <Transaction>2021/05/13 20:49:15.000.626,D:\ProvaDelphi\uTarefa3.pas=D:\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/05/13 22:53:30.000.095,=D:\ProvaDelphi\Componentes\uspQuery.pas</Transaction>
+  </Transactions>
+</BorlandProject>
